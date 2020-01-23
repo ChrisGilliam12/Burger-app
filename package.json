@@ -1,0 +1,27 @@
+{
+  "name": "burger-app",
+  "version": "1.0.0",
+  "description": "mysql burger homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisGilliam12/burger-app.git"
+  },
+  "author": "Chris Gilliam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisGilliam12/burger-app/issues"
+  },
+  "homepage": "https://github.com/ChrisGilliam12/burger-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
